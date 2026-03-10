@@ -9,26 +9,26 @@ I'm a passionate **Frontend Developer** who loves building clean, interactive, a
 
 I’m deeply interested in **exploring Artificial Intelligence** and finding creative ways to integrate AI into modern user interfaces.
 
-✨ I believe great UI is not just built — it’s crafted.  
-🤖 I enjoy experimenting with AI-powered features inside frontend apps.  
-🔁 I’m always trying, learning, and improving.  
+ I believe great UI is not just built — it’s crafted.  
+ I enjoy experimenting with AI-powered features inside frontend apps.  
+ I’m always trying, learning, and improving.  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- ⚛️ React  
-- 🟦 TypeScript  
-- 🟨 JavaScript (ES6+)  
-- ⚡ Vite  
-- 🎨 HTML5 & CSS3  
-- 🔥 Firebase  
-- 🧠 Redux  
-- 🔍 React Query  
+-  React  
+-  TypeScript  
+-  JavaScript (ES6+)  
+-  Vite  
+-  HTML5 & CSS3  
+-  Firebase  
+-  Redux  
+-  React Query  
 
 ---
 
-## 🤖 AI + UI Interests
+## AI + UI Interests
 
 - AI-powered user experiences  
 - Smart search & recommendations  
@@ -39,7 +39,7 @@ I’m deeply interested in **exploring Artificial Intelligence** and finding cre
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - AI integration in frontend apps  
 - OpenAI APIs & AI workflows  
@@ -49,7 +49,7 @@ I’m deeply interested in **exploring Artificial Intelligence** and finding cre
 
 ---
 
-## 🚀 What I Love Building
+## What I Love Building
 
 - Interactive dashboards  
 - Scalable frontend architectures  
@@ -59,18 +59,10 @@ I’m deeply interested in **exploring Artificial Intelligence** and finding cre
 - AI-enhanced web applications  
 ---
 
-## 🎯 Philosophy
+## Philosophy
 
 > “Create. Experiment. Integrate AI. Repeat.”
 
----
 
-## 📫 Let’s Connect
 
-- 💼 LinkedIn: (Add your link)
-- 🌐 Portfolio: (Add your link)
-- 📧 Email: (Add your email)
 
----
-
-⭐ Thanks for visiting my profile!
